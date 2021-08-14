@@ -1,5 +1,6 @@
 1. BIND
-const output1=function(lang1,lang2){
+const output1=function(lang1,lang2)
+{
     console.log('My name is '+this.name+' and i know '+lang1+' and '+lang2)
 }
  const myname1={
